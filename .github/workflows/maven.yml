@@ -16,7 +16,6 @@ on:
 
 jobs:
   build:
-Terminal: Select Default Profile
     runs-on: ubuntu-latest
 
     steps:
